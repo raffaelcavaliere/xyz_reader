@@ -8,5 +8,11 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="by">" by "</string>
+
+    <string name="photo_transition">PhotoTransition</string>
+
+    <string name="no_connectivity">No connectivity</string>
+    <string name="open_wifi_settings">Open WIFI settings</string>
 
 </resources>

@@ -17,12 +17,23 @@
 
 <resources>
 
-    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
-
+    <style name="Theme.XYZ" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/theme_primary</item>
+        <item name="colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="android:textColor">@color/text_light</item>
+        <item name="android:colorForeground">@color/foreground_light</item>
+        <item name="android:windowBackground">@color/window_background</item>
+        <item name="colorAccent">@color/theme_accent</item>
+        <item name="android:fontFamily">Rosario-Regular</item>
     </style>
 
-    <style name="Theme.Bacon.Detail">
-        <item name="android:statusBarColor">@android:color/transparent</item>
+    <style name="Theme.XYZ.TransparentText">
+        <item name="android:textColor">@android:color/transparent</item>
+    </style>
+
+    <style name="Theme.XYZ.BoldHighlight">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
     </style>
 
 </resources>

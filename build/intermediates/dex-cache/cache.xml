@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/raffaelcavaliere/Projects/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/raffaelcavaliere/Projects/XYZReader/build/intermediates/pre-dexed/debug/classes-99151fafd2489e5fa4570b5d15d6fb24251c2844.jar" />
+    </item>
+    <item
+        jar="/Users/raffaelcavaliere/Projects/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/raffaelcavaliere/Projects/XYZReader/build/intermediates/pre-dexed/debug/classes-d11d879b355fa0e20a76047388ee7805eff92054.jar" />
+    </item>
+    <item
+        jar="/Users/raffaelcavaliere/Projects/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/raffaelcavaliere/Projects/XYZReader/build/intermediates/pre-dexed/debug/classes-5e2239c29e173fe3513d88b955c56bc5a333a45a.jar" />
+    </item>
+    <item
+        jar="/Users/raffaelcavaliere/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.1.0/d51280dbb4e8539f6c3f369d516edc26f9d89d31/okhttp-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="/Users/raffaelcavaliere/Projects/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.1.0-054dc20f2b929ab3e8caab7829a666664036dac9.jar" />
+    </item>
+    <item
+        jar="/Users/raffaelcavaliere/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/raffaelcavaliere/Projects/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-9bcc62113a22460f4c504d3ea29f29c8cae5d53d.jar" />
+    </item>
+    <item
+        jar="/Users/raffaelcavaliere/Projects/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/raffaelcavaliere/Projects/XYZReader/build/intermediates/pre-dexed/debug/volley-de8f41a14001591745eaf50dd3403c056dc9c3a8.jar" />
+    </item>
+    <item
+        jar="/Users/raffaelcavaliere/Projects/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/raffaelcavaliere/Projects/XYZReader/build/intermediates/pre-dexed/debug/classes-527b5a735f7b46b56f4d9ee996ca13b40c02e4d4.jar" />
+    </item>
+    <item
+        jar="/Users/raffaelcavaliere/Projects/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/raffaelcavaliere/Projects/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-580ffacb458e2e77d74cbe3a3af74a20d6dd5302.jar" />
+    </item>
+    <item
+        jar="/Users/raffaelcavaliere/Projects/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/raffaelcavaliere/Projects/XYZReader/build/intermediates/pre-dexed/debug/classes-551c5d521aa4de2a9c54e63190cd868b47d8a504.jar" />
+    </item>
+    <item
+        jar="/Users/raffaelcavaliere/Projects/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="/Users/raffaelcavaliere/Projects/XYZReader/build/intermediates/pre-dexed/debug/classes-58629e03dd6f42a8576c6fed3a7208cd71cf0476.jar" />
+    </item>
+
+</items>

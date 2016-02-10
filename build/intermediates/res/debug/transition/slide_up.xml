@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet xmlns:android="http://schemas.android.com/apk/res/android" android:transitionOrdering="together">
+    <transitionSet>
+        <slide android:slideEdge="bottom" android:interpolator="@android:interpolator/decelerate_cubic" android:duration="500"></slide>
+        <targets>
+            <target android:targetId="@id/pager"></target>
+        </targets>
+    </transitionSet>
+    <transitionSet>
+        <fade android:fadingMode="fade_in" android:duration="500"></fade>
+        <targets>
+            <target android:excludeId="@id/pager"></target>
+            <target android:excludeId="@android:id/navigationBarBackground"/>
+            <target android:excludeId="@android:id/statusBarBackground"/>
+        </targets>
+    </transitionSet>
+</transitionSet><!-- From: file:/Users/raffaelcavaliere/Projects/XYZReader/src/main/res/transition/slide_up.xml -->
